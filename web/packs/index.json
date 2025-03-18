@@ -1,6 +1,8 @@
 {
   "packs": [
-    "CestPasSorcier.json"
+    "CestPasSorcier.json",
+    "Fachiste.json",
+    "ZemmourEric.json"
   ],
   "homeserver_url": "https://matrix.radres.xyz"
 }
