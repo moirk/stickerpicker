@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "CestPasSorcier.json"
+  ],
+  "homeserver_url": "https://matrix.radres.xyz"
+}
